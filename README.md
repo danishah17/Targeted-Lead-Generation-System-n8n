@@ -1,13 +1,9 @@
 #  Targeted Business Lead Generation Engine
 
-![n8n](https://img.shields.io/badge/Workflow-n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Apify](https://img.shields.io/badge/Scraping-Apify-97D077?style=for-the-badge&logo=apify&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Database-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
 An automated low-code workflow designed to build targeted B2B lead lists. This engine scrapes business data from Google Maps based on a specific niche/location and recursively visits business websites to extract direct contact emails.
 
 ##  Workflow Visual
-![Targeted Business Lead Generation Engine](Lead%20generation.jpg)
+The image is available above in the repository.
 
 ##  Overview
 Finding high-quality leads manually is slow and inefficient. This project automates the entire prospecting pipeline. 
